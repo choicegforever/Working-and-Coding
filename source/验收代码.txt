@@ -1,0 +1,13 @@
+pyinstaller -F -w -i icon.ico main.py
+
+星商
+0.2.3 lqatest en fix approved
+
+动物迷城
+20260115 V2.0.0.30.4-Dev 英语修复通过
+
+BK
+[lqatest 0.5.14 CN] 
+
+轮盘
+1.2.0 lqa_test en fix approved
